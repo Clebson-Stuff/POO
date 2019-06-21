@@ -1,5 +1,5 @@
 <h1 class="intro">Atividades de POO</h1>
-<h3><a href="http://github.com/clebsonf/POO/tree/master/src/br/ufpb/pratInterface
+<h3><a href="https://github.com/clebsonf/POO/tree/master/src/br/ufpb/pratInterface
 o">Praticando Interfaces:</a></h3>
 <ul>
 	<li>Crie uma interface chamada <b>AreaCalculavel</b></li>
