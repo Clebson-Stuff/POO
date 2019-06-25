@@ -7,3 +7,6 @@
 		<li>Crie um Manin para ver o polimorfismo em prática. Crie um array do tipo AreaCalculavel com um Quadrado, Retangulo e um Circulo. Itere no Array e <b> Calcule a area de cada um deles.</b></li>
 	</ol>
 </ul>
+
+<h3><a href="https://github.com/clebsonf/POO/tree/master/src/br/zoologico">Praticando Interface e Herança</a></h3>
+
