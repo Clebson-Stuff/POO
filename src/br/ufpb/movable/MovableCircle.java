@@ -9,6 +9,10 @@ public class MovableCircle implements Movable{
 		this.radius = radius;
 	}
 	
+	public String toString() {
+		return "X: ["+this.center.x + "] xSpeed: ["+this.center.xSpeed +"] | Y: ["+ this.center.y+ "] ySpeed: [" + this.center.ySpeed+"]";
+	}
+	
 	public void moveUp() {
 		// TODO Auto-generated method stub
 		center.moveUp();

@@ -1,6 +1,6 @@
 package br.ufpb.movable;
 
-public class MovablePoint {
+public class MovablePoint implements Movable {
 	int x;
 	int y;
 	int xSpeed;
@@ -12,6 +12,11 @@ public class MovablePoint {
 		this.ySpeed = ySpeed;
 		
 	}
+	
+	public String toString() {
+		return "X: ["+this.x + "] xSpeed: ["+this.xSpeed +"] | Y: ["+ this.y+ "] ySpeed: [" + this.ySpeed+"]";
+	}
+	
 	public void moveUp() {
 		// TODO Auto-generated method stub
 		this.y += ySpeed; 
