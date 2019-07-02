@@ -1,4 +1,12 @@
 <h1 class="intro">Atividades de POO</h1>
+<ul>
+	<li><a href="https://github.com/clebsonf/POO/tree/master/src/br/ufpb/pratInterface">Praticando Interfaces:</a></li>
+	<li><a href="https://github.com/clebsonf/POO/tree/master/src/br/zoologico">Zoologico</a></li>
+	<li><a href="https://github.com/clebsonf/POO/tree/master/src/br/ufpb/movable">Exercicios Movable</a></li>
+	<li><a href="https://github.com/clebsonf/POO/tree/master/src/br/ufpb/pratColections"> Exercicio Praticando interfaces com Collection</a></li>
+</ul>
+
+
 <h3><a href="https://github.com/clebsonf/POO/tree/master/src/br/ufpb/pratInterface">Praticando Interfaces:</a></h3>
 <ul>
 	<li>Crie uma interface chamada <b>AreaCalculavel</b></li>
